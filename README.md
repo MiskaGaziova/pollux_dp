@@ -74,6 +74,14 @@ Pre spracovanie a vygenerovanie grafov spusti:
 3. `alignment_score_plots_all_viruses.ipynb` - vygeneruj grafy
 
 ## directory structructure
+
+`scripts_main.zip` -- generovanie skriptov a vysledkov
+
+`scripts.zip` -- vygenerovane skripty (konfiguracne subory, skripty pre spustanie konfiguracnych suborov)
+
+`DP-respiracne.zip` -- baseline konsezus sekvencie, a data (vysledne tabulky, vyhodnotenia zarovani, z vysledkov vygenerovane grafy) 
+
+
 `consensus_baseline` - konsenzus sekvencie (skontrolovane Mirom)
 `data`
     - `vysledky` - tsv z google sheetov (Respiracne_vysledky)
